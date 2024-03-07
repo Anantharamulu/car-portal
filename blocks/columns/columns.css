@@ -15,7 +15,7 @@
   order: 0;
 }
 
-.columns-img-col h3{
+.columns div h3{
       font-family: uni_neueheavy;
     font-size: 46px;
     font-weight: bold;
@@ -28,7 +28,7 @@
     -moz-transform: skewX(-10deg);
 }
 
-.columns-img-col p{
+.columns div p{
       max-width: 100%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 14px;
