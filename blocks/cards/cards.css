@@ -14,7 +14,7 @@
   transition: all 1s;
 }
 
-.card > ul > li:hover{
+.cards > ul > li:hover{
   -ms-transform: scale(11.04);
   -webkit-transform: scale(1.04);
   transform: scale(1.04);
