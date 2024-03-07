@@ -15,6 +15,29 @@
   order: 0;
 }
 
+.columns-img-col h3{
+      font-family: uni_neueheavy;
+    font-size: 46px;
+    font-weight: bold;
+    text-transform: uppercase;
+    line-height: 36px;
+    color: white;
+    color: #e2bd4c;
+    transform: skewX(-10deg);
+    -webkit-transform: skewX(-10deg);
+    -moz-transform: skewX(-10deg);
+}
+
+.columns-img-col p{
+      max-width: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    padding: 15px 0;
+    margin-left: 0px;
+    color: #000;
+}
+
 .columns > div > .columns-img-col img {
   display: block;
 }
