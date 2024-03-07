@@ -16,11 +16,15 @@ footer .footer p {
     display: flex;
     justify-content: space-between;
     background:#232529;
+    color:#fff;
 }
 
 .social-icons div{
-    flex: 3;
+    flex: 1;
     margin: 10px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
 }
 
 .social-icons p {
