@@ -15,9 +15,10 @@ footer .footer p {
 .social-icons {
     display: flex;
     justify-content: space-between;
+    background:#232529;
 }
 
-.social-icons div {
+.social-icons div div{
     flex: 1;
     margin: 10px;
 }
@@ -38,7 +39,7 @@ footer .footer p {
 
 .social-icons ul li a {
     text-decoration: none;
-    color: #000;
+    color: #fff;
 }
 
 .social-icons img {
