@@ -12,3 +12,37 @@ footer .footer {
 footer .footer p {
   margin: 0;
 }
+.social-icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-icons div {
+    flex: 1;
+    margin: 10px;
+}
+
+.social-icons p {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.social-icons ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.social-icons ul li {
+    margin-bottom: 10px;
+}
+
+.social-icons ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.social-icons img {
+    width: 48px;
+    height: 32px;
+}
+
