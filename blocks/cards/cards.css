@@ -11,15 +11,21 @@
   border: 1px solid var(--dark-color);
   background-color: var(--background-color);
   transition: background-color 0.3s ease;
+  transition: all 1s;
 }
 
 .card > ul > li:hover{
-  background-color: var(--hover-color);
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  -ms-transform: scale(11.04);
+  -webkit-transform: scale(1.04);
+  transform: scale(1.04);
 }
 
 .cards .cards-card-body {
   margin: 16px;
+  text-align: center;
+  font-size: 18px;
+  line-height: 21.6px;
+  font-family: monospace;
 }
 
 .cards .cards-card-image {
