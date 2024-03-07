@@ -19,12 +19,9 @@ footer .footer p {
     color:#fff;
 }
 
-.social-icons div{
+.social-icons >div{
     flex: 1;
     margin: 10px;
-    display: flex; 
-    flex-direction: column; 
-    align-items: center;
 }
 
 .social-icons p {
