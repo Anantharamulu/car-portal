@@ -46,6 +46,15 @@ footer .footer p {
 .social-icons ul li a {
     text-decoration: none;
     color: #fff;
+    font-size:18px;
+    line-height:21.6px;
+    letter-spacing:normal;
+}
+
+.social-icons ul li img{
+  max-width: 32px;
+  height:32px;
+  vertical-align:middle;
 }
 
 .social-icons img {
