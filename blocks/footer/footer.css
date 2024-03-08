@@ -20,8 +20,13 @@ footer .footer p {
 }
 
 .social-icons >div{
-    flex: 1;
-    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social-icons >div >div{
+  flex: 1;
+  margin: 10px;
 }
 
 .social-icons p {
