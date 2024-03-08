@@ -55,6 +55,7 @@ footer .footer p {
   max-width: 32px;
   height:32px;
   vertical-align:middle;
+  margin:0 .5em;
 }
 
 .social-icons img {
